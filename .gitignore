@@ -1,0 +1,4 @@
+capstone/
+littlelemon/littlelemon/__pycache__
+littlelemon/tests/__pycache__
+littlelemon/restaurant/__pycache__
